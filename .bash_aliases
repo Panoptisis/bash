@@ -32,7 +32,7 @@ rmsvn()
 }
 
 # ls aliases
-alias ls='ls -FG'
+alias ls='ls -FG --color'
 alias ll='ls -l'
 alias la='ll -a'
 alias  l='ll'
