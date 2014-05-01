@@ -36,6 +36,7 @@ alias ls='ls -FG --color'
 alias ll='ls -l'
 alias la='ll -a'
 alias  l='ll'
+alias cs='cd && ls'
 
 # Composer alias
 alias composer='php ~/composer.phar'
